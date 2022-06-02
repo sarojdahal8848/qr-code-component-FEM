@@ -1,4 +1,3 @@
-
 ## Screenshot
 
 ### On Desktop View
@@ -12,7 +11,7 @@
 ### Links
 
 - Solution URL: [github](https://github.com/sarojdahal8848/qr-code-component-FEM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [website](https://qr-code-sd.netlify.app/)
 
 ## My process
 
