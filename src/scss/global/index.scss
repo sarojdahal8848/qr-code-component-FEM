@@ -1,0 +1,25 @@
+@forward 'colors';
+@use 'colors';
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+body{
+    background: colors.$light-grey;
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+}
+
+h2{
+    font-weight: 700;
+    color: colors.$dark-blue;
+}
+
+p{
+    font-weight: 400;
+    color: colors.$grey-blue;
+    text-shadow: 0.6px 0.6px colors.$light-grey;
+}
